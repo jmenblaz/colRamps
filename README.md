@@ -1,2 +1,2 @@
 # colRamps
-colRamps is a tematic series of colors palletes and rams for R
+colRamps gathers a thematic series of usefull colours palletes and ramps to use in R enviroment
