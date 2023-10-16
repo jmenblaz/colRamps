@@ -1,5 +1,5 @@
 # colRamps
-- Under MIT license - author: @jmenblaz
+author: @jmenblaz | MIT license
 <br>
 <b>colRamps</b> repository gathers a thematic series of usefull colours palletes and ramps to use in R enviroment 
 <br>
