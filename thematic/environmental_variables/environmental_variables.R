@@ -10,6 +10,8 @@
 
 library(RColorBrewer)
 
+# Cloud cover: Blue and grey gradient
+colRamp <- colorRampPalette(c('#B9D3EE','#FFFAFA','#C7C7C7','#ABABAB','#8B8682','#404040'))(50)
 
 # Blue gradient: Sea surface primary swell, bathymetry
 colRamp <- colorRampPalette(c('#ecf9ff','#BFEFFF','#97C8EB','#4682B4','#264e76','#162e46'))(50)
